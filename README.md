@@ -1,5 +1,7 @@
 # REVENUE ANALYSIS - ATLIQ HOSPITALITY
 
+### PROJECT LINK - https://app.powerbi.com/groups/me/reports/0ac9bc60-f174-4270-800a-3803ead25ae0/ReportSection?experience=power-bi
+
 
 AtliQ Grands is a well-established hospitality company that owns multiple five-star hotels across India. The company has been in the industry for the past 20 years and is known for its luxury and business hotels.
 
