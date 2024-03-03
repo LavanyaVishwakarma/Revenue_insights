@@ -13,7 +13,7 @@ Objective: To provide AtliQ Grands with insights from their historical data to r
 
 __SKILLS DEMONSTRATED__
 
-This project exposed me to learning a lot using Microsoft Power BI.
+This project exposed me to learn a lot using Microsoft Power BI.
 
 · Multiple complex DAX formulas and Functions.
 
